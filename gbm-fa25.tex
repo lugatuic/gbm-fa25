@@ -1,5 +1,7 @@
 \documentclass{beamer}
 \usetheme{lugatuic}
+% .svg Support
+\usepackage{svg}
 
 \title{LUG General Body Meet}
 \subtitle{Fall 2025}
@@ -27,7 +29,28 @@
 
   \subsection{What is Linux?}
   \begin{frame}{What is Linux?}
-    Linux is operating system very good. yes i promise
+    \begin{columns}
+      \begin{column}{0.6\textwidth}
+        \begin{itemize}
+          \item Linux Distributions ("Distros")
+          \begin{itemize}
+            \item Linux Kernel
+            \begin{itemize}
+              \item Manages Memory \& Hardware 
+            \end{itemize}
+            \item Package Managers
+            \item 
+          \end{itemize}
+          \item FOSS: Free Open Source Software
+        \end{itemize}
+        \begin{block}{"GNU/Linux" or "Linux"?}
+          Although GNU software is \emph{ususally} used by Linux distros, the only thing that they all have in common is the Linux Kernel.
+        \end{block}
+      \end{column}
+      \begin{column}{0.4\textwidth}
+        \includesvg[width=100pt]{assets/tux}
+      \end{column}
+    \end{columns}
   \end{frame}
 
   \begin{frame}{Why Linux?}
