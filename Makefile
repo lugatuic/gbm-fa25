@@ -1,12 +1,16 @@
-.PHONY: all clean clena
+# Metadata File (LaTeX header code to allow editing theme options, titlegraphic) 
+METADATA=metadata.yml
+# Pandoc flags
+# Currently: -t beamer (template beamer) --metadata-file (sets metadata-file) -o (set output to file) 
+PANDOC_FLAGS := -t beamer
+PANDOC_FLAGS += --metadata-file $(METADATA)
+# Pandoc Command up until variable file name src and dest
+PANDOC := pandoc $(PANDOC_FLAGS) 
 
-# TODO: handout?
-all: gbm-fa25.tex
-	pdflatex --shell-escape gbm-fa25.tex
+# Markdown to PDF Rule
+%.pdf : %.md
+	$(PANDOC) $< -o $@
 
-clean:
-	rm *.log *.out *.snm *.toc *.aux *.nav *.pdf
-	rm -rf svg-inkscape
-
-clena:
-	echo "wrogn commadn budyd"
+# Org Mode Support (Untested)
+%.pdf : %.org
+	$(PANDOC) $< -o $@
