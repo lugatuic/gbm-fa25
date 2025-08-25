@@ -1,24 +1,62 @@
 ---
 title: LUG General Body Meeting 
 subtitle: Fall 2025 
-author: The Linux Users' Group Executive Board
+author: Linux User Group Executive Board
 date: September 10th, 2025
 ---
 
-# Slide 1
+## Table Of Contents
+\tableofcontents
 
-Test
+# What is Linux?
 
-# Slide 2
+## What is Linux?
+(Title slide for section)
 
-::: columns
+## Why Linux?
 
-:::: column
-left
-::::
+## Why FOSS?
 
-:::: column
-![](./assets/lug-logo-invert.png)
-::::
+# What is LUG?
 
-:::
+## What is LUG?
+(Title slide for section)
+
+## Why "Linux User"?
+
+## Why LUG?
+
+# Who is LUG?
+
+## Who is LUG?
+(Title slide for section)
+
+## President - Michael
+
+## Vice President - Jacob
+
+## Treasurer - Harshit
+
+## Mentor - Maratos
+
+## Executive Officers - Event Hosters
+
+# LUG History
+
+## LUG History
+(Title slide for section)
+
+## The Past
+
+## The Present
+
+## The Future
+
+# Closing Statements
+
+## Closing Statements
+(Title slide for section)
+
+## Come See Us!
+
+## Talk & Contribute!
