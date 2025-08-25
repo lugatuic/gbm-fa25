@@ -1,7 +1,11 @@
-Basic LaTeX Makefile-ry
+# LUG Fall 2025 General Body Meeting
 
-`make all` compiles, `make clean` cleans build files
+Slides from LUG's Fall 2025 General Body Meeting.
 
-If you want to add pictures, videos, or any other embeddable multimedia, please put them in the `assets` folder :)
+To contribute to slides, `edit gbm-fa25.md`
+To build slides, run `make gbm-fa25.pdf`
 
-If you want to make a change to the underlying theme, please push changes to the "lug-template repo" and then we can just update the theme version from that :)
+Prerequisites for building:
+- GNU `make` : Run Makefile
+- `pandoc` : Markdown to LaTeX
+- `pdflatex` : LaTeX compilation
