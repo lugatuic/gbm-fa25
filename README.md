@@ -2,10 +2,12 @@
 
 Slides from LUG's Fall 2025 General Body Meeting.
 
-To contribute to slides, `edit gbm-fa25.md`
-To build slides, run `make gbm-fa25.pdf`
+- To contribute to slides, edit `src/gbm-fa25.md`.
+- To build slides, run `make`, which will generate `out/gbm-fa25.pdf`.
 
-Prerequisites for building:
+## Prerequisites
 - GNU `make` : Run Makefile
 - `pandoc` : Markdown to LaTeX
-- `pdflatex` : LaTeX compilation
+
+# Notes
+Running `make` will attempt to convert any markdown files in `src/` to slides PDFs in `out/`.
