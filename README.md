@@ -8,6 +8,7 @@ Slides from LUG's Fall 2025 General Body Meeting.
 ## Prerequisites
 - GNU `make` : Run Makefile
 - `pandoc` : Markdown to LaTeX
+- `pdflatex` : LaTeX compilation
 
 # Notes
 Running `make` will attempt to convert any markdown files in `src/` to slides PDFs in `out/`.
