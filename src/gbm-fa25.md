@@ -10,8 +10,8 @@ date: September 10th, 2025
 
 # What is Linux?
 
-## What is Linux?
-(Title slide for section)
+##
+\Huge What is Linux?
 
 ## Why Linux?
 
@@ -19,8 +19,8 @@ date: September 10th, 2025
 
 # What is LUG?
 
-## What is LUG?
-(Title slide for section)
+## 
+\Huge What is LUG?
 
 ## Why "Linux User"?
 
@@ -28,10 +28,37 @@ date: September 10th, 2025
 
 # Who is LUG?
 
-## Who is LUG?
-(Title slide for section)
+## 
+\Huge Who is LUG?
 
 ## President - Michael
+
+::: columns
+:::: column
+\Large \textbf{Michael Khan}
+
+LUG President
+\normalsize
+
+About Me:
+
+- CS Undergrad - Junior
+
+- `@milknolactose` on Discord
+
+- Arch User
+
+- `nvim` > `emacs`
+
+Things I like:
+
+  - Jeff Rosenstock
+  - RDR2
+  - CyberSecurity
+::::
+:::: column
+::::
+:::
 
 ## Vice President - Jacob
 
@@ -43,8 +70,8 @@ date: September 10th, 2025
 
 # LUG History
 
-## LUG History
-(Title slide for section)
+## 
+\Huge LUG History
 
 ## The Past
 
@@ -54,8 +81,8 @@ date: September 10th, 2025
 
 # Closing Statements
 
-## Closing Statements
-(Title slide for section)
+## 
+\Huge Closing Statements
 
 ## Come See Us!
 
