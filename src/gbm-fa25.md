@@ -64,6 +64,29 @@ Things I like:
 
 ## Treasurer - Harshit
 
+\begin{columns}[T,onlytextwidth]
+  \begin{column}{0.56\textwidth}
+    {\Large\bfseries Harshit ``Harsh'' Modi}\par\vspace{0.6em}
+    {\small
+    \setlength{\parskip}{0.4em}
+    \begin{itemize}
+      \item Since 2024. Still here.
+      \item \textbf{Treasurer (2025–)} — budget? lol.
+      \item \textbf{Arch user} — because I can. And because I’m Batman.
+      \item \textbf{Website:} \href{https://harshitmodi.dev}{harshitmodi.dev} — somehow works.
+      \item Runs on coffee , regret and sarcasm.
+      \item \textbf{Home server} — because therapy is expensive
+    \end{itemize}
+    }
+  \end{column}
+
+  \begin{column}{0.44\textwidth}
+    \centering
+    \includegraphics[width=\linewidth]{assets/drunk_tux.jpeg}
+  \end{column}
+\end{columns}
+
+
 ## Mentor - Maratos
 
 ## Executive Officers - Event Hosters
