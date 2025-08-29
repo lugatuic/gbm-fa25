@@ -35,20 +35,19 @@ date: September 10th, 2025
 
 ::: columns
 :::: column
-\Large \textbf{Michael Khan}
+\Large \textbf{Michael Khan}\par\vspace{0.6em}
 
-LUG President
 \normalsize
 
 About Me:
 
 - CS Undergrad - Junior
 
+- [xmasscan.github.io](https://xmasscan.github.io/)
+
 - `@milknolactose` on Discord
 
 - Arch User
-
-- `nvim` > `emacs`
 
 Things I like:
 
@@ -57,6 +56,7 @@ Things I like:
   - CyberSecurity
 ::::
 :::: column
+![](assets/mike_pfp.png)
 ::::
 :::
 
@@ -87,9 +87,13 @@ Things I like:
 \end{columns}
 
 
-## Mentor - Maratos
+## Advisor - Maratos
 
 ## Executive Officers - Event Hosters
+
+- Intro to ViM: Luke Deany
+- Address Sanitizer: Samuel Skean  
+- 2 Free Slots!
 
 # LUG History
 
