@@ -55,6 +55,7 @@ Things I like:
   - CyberSecurity
 ::::
 :::: column
+![](assets/mike_pfp.png)
 ::::
 :::
 
