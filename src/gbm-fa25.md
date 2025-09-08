@@ -5,31 +5,29 @@ author: Linux User Group Executive Board
 date: September 10th, 2025
 ---
 
+## Attendance & Links!
+
+While we wait for people to come in...
+
+::: columns
+:::: column
+\Huge Take Attendance!
+<!-- TODO: ATTENDANCE QR, EMPTY EMBED BELOW CURRENTLY --->
+![]()
+::::
+:::: column
+\Huge Join our Discord!
+![](assets/lug-discord-qr.png)
+::::
+:::
+
 ## Table Of Contents
 \tableofcontents
 
-# What is Linux?
-
-##
-\Huge What is Linux?
-
-## Why Linux?
-
-## Why FOSS?
-
-# What is LUG?
+# Meet the Cabinet
 
 ## 
-\Huge What is LUG?
-
-## Why "Linux User"?
-
-## Why LUG?
-
-# Who is LUG?
-
-## 
-\Huge Who is LUG?
+\Huge Meet the Cabinet!
 
 ## President - Michael
 
@@ -61,6 +59,7 @@ Things I like:
 :::
 
 ## Vice President - Jacob
+<!-- TODO: SLIDE --->
 
 ## Treasurer - Harshit
 
@@ -97,10 +96,23 @@ Things I like:
 \Huge LUG History
 
 ## The Past
+Cool things we've done here
+- Projects
+- Repos
+- Events
 
 ## The Present
+Things we're going to do this semester
+- Linux Week
+- LUG X WiCyS
+- CyberForce @ DoE
+- Groups soft intro - Group Rubik
 
 ## The Future
+- Cybersec Group
+- CyberForce next year
+- Game Jam (Tentative)
+- Group - GLaDOSnet
 
 # Closing Statements
 
@@ -108,5 +120,6 @@ Things I like:
 \Huge Closing Statements
 
 ## Come See Us!
-
-## Talk & Contribute!
+- CDRLC 2433 w/ Picture & Directions
+- Discord
+- GitHub
