@@ -13,7 +13,7 @@ While we wait for people to come in...
 :::: column
 \Huge Take Attendance!
 <!-- TODO: ATTENDANCE QR, EMPTY EMBED BELOW CURRENTLY --->
-![]()
+![](assets/coe_qr.png)
 ::::
 :::: column
 \Huge Join our Discord!
