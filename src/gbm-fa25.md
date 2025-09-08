@@ -7,16 +7,17 @@ date: September 10th, 2025
 
 ## Attendance & Links!
 
-While we wait for people to come in...
-
 ::: columns
 :::: column
 \Huge Take Attendance!
-<!-- TODO: ATTENDANCE QR, EMPTY EMBED BELOW CURRENTLY --->
+
+\vspace{0.5cm}
 ![](assets/coe_qr.png)
 ::::
 :::: column
-\Huge Join our Discord!
+\Huge Join Our Discord!
+
+\vspace{0.5cm}
 ![](assets/lug-discord-qr.png)
 ::::
 :::
