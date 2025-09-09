@@ -29,8 +29,6 @@ While people shuffle in, ask questions and...
 
 # What is LUG?
 
-<!-- LUG Primer - What do we do vaguely to reel people in! --->
-
 ## What is LUG?
 
 "Linux User"
