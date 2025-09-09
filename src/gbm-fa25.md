@@ -28,16 +28,18 @@ date: September 10th, 2025
 # Linux Primer
 
 ## What is Linux?
-<!-- TODO --->
 ::: columns
-:::: column
-Linux Kernel
+:::: {.column width=60%}
+<!-- TODO: Clean Up --->
+"Linux" == Linux Distro == OS w/ Linux Kernel
 
-- Open Source Kernel
-  - TL;DR 
+\vspace{.25cm}
 
+- FOSS - Free Open Source Software
+- Operating System
+- Upgrade, customize, mess with as you want!
 ::::
-:::: column
+:::: {.column width=40%}
 ![](assets/tux_white.svg)
 ::::
 :::
