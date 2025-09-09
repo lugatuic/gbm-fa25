@@ -30,7 +30,6 @@ date: September 10th, 2025
 ## What is Linux?
 ::: columns
 :::: {.column width=60%}
-<!-- TODO: Clean Up --->
 "Linux" == Linux Distro == OS w/ Linux Kernel
 
 \vspace{.25cm}
@@ -38,6 +37,12 @@ date: September 10th, 2025
 - FOSS - Free Open Source Software
 - Operating System
 - Upgrade, customize, mess with as you want!
+- Runs on lots of things
+  - Android
+  - Embedded Systems
+  - Old Computers
+  - Supercomputers
+- Great for schoolwork, software development, sciences
 ::::
 :::: {.column width=40%}
 ![](assets/tux_white.svg)
