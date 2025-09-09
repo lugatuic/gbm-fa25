@@ -49,10 +49,28 @@ date: September 10th, 2025
 ::::
 :::
 
+## "Linux User"
+
+"Why Linux User Group?"
+
+We're a bunch of people who like FOSS & Systems/Low Level stuff!
+
+Members DON'T HAVE TO:
+
+- Use Linux right away
+- Have a lot of skill or experience
+- Be a CS Major
+
+Members SHOULD:
+
+- Be interested in learning by doing
+- Want to mess with Servers and Networking
+- Talk about their interests and do cool things with them!
+
 # The LUG Timeline
 
 ##
-\Huge LUG History
+\Huge The LUG Timeline
 
 ## The Past
 Cool things we've done here
