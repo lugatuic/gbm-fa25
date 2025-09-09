@@ -7,6 +7,8 @@ date: September 10th, 2025
 
 ## Attendance & Links!
 
+While people shuffle in, ask questions and...
+
 ::: columns
 :::: column
 \Huge Take Attendance!
@@ -24,6 +26,50 @@ date: September 10th, 2025
 
 ## Table Of Contents
 \tableofcontents
+
+# What is LUG?
+
+<!-- LUG Primer - What do we do vaguely to reel people in! --->
+
+## What is LUG?
+
+"Linux User"
+
+- FOSS: Free Open Source Software
+- Systems, CyberSecurity, and Low Level
+- Right to Repair and putting users first
+
+Interested in:
+
+- Learning about Server/Network infra
+  - Maintenance
+  - Hosting a server
+- Math & Using CS for your hobbies
+  - Rubik Group
+- Jumping ship from Windows -> Linux
+- Learning about Linux & other nerdy programming things
+
+##
+\Huge LUG History
+
+## The Past
+Cool things we've done here
+- Projects
+- Repos
+- Events
+
+## The Present
+Things we're going to do this semester
+- Linux Week
+- LUG X WiCyS
+- CyberForce @ DoE
+- Groups soft intro - Group Rubik
+
+## The Future
+- Cybersec Group
+- CyberForce next year
+- Game Jam (Tentative)
+- Group - GLaDOSnet
 
 # Meet the Cabinet
 
@@ -91,30 +137,6 @@ Things I like:
 ## Mentor - Maratos
 
 ## Executive Officers - Event Hosters
-
-# LUG History
-
-## 
-\Huge LUG History
-
-## The Past
-Cool things we've done here
-- Projects
-- Repos
-- Events
-
-## The Present
-Things we're going to do this semester
-- Linux Week
-- LUG X WiCyS
-- CyberForce @ DoE
-- Groups soft intro - Group Rubik
-
-## The Future
-- Cybersec Group
-- CyberForce next year
-- Game Jam (Tentative)
-- Group - GLaDOSnet
 
 # Closing Statements
 
