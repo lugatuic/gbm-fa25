@@ -7,8 +7,6 @@ date: September 10th, 2025
 
 ## Attendance & Links!
 
-While people shuffle in, ask questions and...
-
 ::: columns
 :::: column
 \Huge Take Attendance!
@@ -27,25 +25,24 @@ While people shuffle in, ask questions and...
 ## Table Of Contents
 \tableofcontents
 
-# What is LUG?
+# Linux Primer
 
-## What is LUG?
+## What is Linux?
 
-"Linux User"
+::: columns
+:::: column
+Linux Kernel
 
-- FOSS: Free Open Source Software
-- Systems, CyberSecurity, and Low Level
-- Right to Repair and putting users first
+- Open Source Kernel
+  - TL;DR 
 
-Interested in:
+::::
+:::: column
+![](assets/tux_white.svg)
+::::
+:::
 
-- Learning about Server/Network infra
-  - Maintenance
-  - Hosting a server
-- Math & Using CS for your hobbies
-  - Rubik Group
-- Jumping ship from Windows -> Linux
-- Learning about Linux & other nerdy programming things
+# The LUG Timeline
 
 ##
 \Huge LUG History
@@ -105,7 +102,6 @@ Things I like:
 :::
 
 ## Vice President - Jacob
-<!-- TODO: SLIDE --->
 
 ## Treasurer - Harshit
 
