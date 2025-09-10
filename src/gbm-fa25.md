@@ -220,9 +220,9 @@ Things I like outside of CS:
     }
   \end{column}
 
-  \begin{column}{0.44\textwidth}
+  \begin{column}{0.40\textwidth}
     \centering
-    \includegraphics[width=\linewidth]{assets/homelab.jpg}
+    \includegraphics[width=\linewidth]{assets/homelab.png}
   \end{column}
 \end{columns}
 
