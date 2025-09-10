@@ -1,100 +1,125 @@
 ---
-title: LUG General Body Meeting 
-subtitle: Fall 2025 
-author: Linux User Group Executive Board
+title: LUG General Body Meeting
+subtitle: Fall 2025
+author: CDRLC 1413
 date: September 10th, 2025
 ---
 
-## Check-In & Links!
+<!-- TITLE SLIDE GEN HERE --->
+
+## Welcome to the LUG GBM!
 
 ::: columns
 :::: column
-\Huge Check Into the GBM!
+\Large Check In!
 
-\vspace{0.5cm}
+\vspace{.5cm}
 ![](assets/coe_qr.png)
 ::::
-:::: column
-\Huge Join Our Discord!
 
-\vspace{0.5cm}
+:::: column
+\Large Join the Discord!
+
+\vspace{.5cm}
 ![](assets/lug-discord-qr.png)
 ::::
 :::
 
-## Table Of Contents
+<!-- TOC bcs built in TOC is bugged --->
+
+## Table of Contents
 \tableofcontents
 
-# Linux Primer
+# What is LUG?
+
+##
+\Huge What is LUG?
 
 ## What is Linux?
+
 ::: columns
-:::: {.column width=60%}
-"Linux" == Linux Distro == OS w/ Linux Kernel
+:::: column
+- FOSS: Free and Open Source Software
+  - Free, as in Libre!
 
-\vspace{.25cm}
+- Operating System Kernel
 
-- FOSS - Free Open Source Software
-- Operating System
-- Upgrade, customize, mess with as you want!
-- Runs on lots of things
+- "Linux" = Operating System built on Linux
+  - Linux Distros
+
+- Runs on everything, everywhere.
   - Android
   - Embedded Systems
-  - Old Computers
+  - Old Machines
   - Supercomputers
-- Great for schoolwork, software development, sciences
 ::::
-:::: {.column width=40%}
-![](assets/tux_white.svg)
+:::: column
+![](assets/tux.svg)
 ::::
 :::
 
-## "Linux User"
+## Why "Linux User Group"?
 
-"Why Linux User Group?"
+We like FOSS & Systems/Low Level topics. What can be described as "the Linux ecosystem" encompasses both of these fields. It also helps that a lot of us are interested in it!
 
-We're a bunch of people who like FOSS & Systems/Low Level stuff!
+NO, you do not *need* to use Linux to join! (But you should!)
 
-Members DON'T HAVE TO:
+NO, you don't need to be a CS Major to join!
 
-- Use Linux right away
-- Have a lot of skill or experience
-- Be a CS Major
+YES, you must Open Source software when possible in our projects!
 
-Members SHOULD:
+YES, you will have to learn how to *use* Linux!
 
-- Be interested in learning by doing
-- Want to mess with Servers and Networking
-- Talk about their interests and do cool things with them!
+## Why Linux? - Great for School & Work!
 
-# The LUG Timeline
+Programmers:
+
+- `nvim`
+- Running same software as phones & servers you work on
+- Installing compilers & dev tools infinitely easier than Windows...
+
+Artists:
+
+- Blender, Krita, Aseprite, Godot
+- Confine Adobe to a VM
+
+Nerds of various flavors:
+
+- Even the most basic programming can make your life easier or elevate projects
+- Make your papers pretty with LaTeX!
+- Shockingly, nerds write code!
+
+## Why Linux? - Why Not?
+
+::: columns
+:::: column
+1. It's 2025
+- I had to *force* myself to use the terminal
+- Games I've played via Proton:
+  - GTA V
+  - RDR2
+  - Death Stranding 
+  - Cyberpunk 2077
+  - MGSV
+  - Marvel Rivals
+  - CSGO
+
+2. Windows 11
+- System Requirements
+- Thanks for just installing Copilot. Cool.
+- BSODs
+    
+::::
+:::: column
+\vspace{2cm}
+![](assets/win11.png)
+::::
+:::
+
+# Who are we?
 
 ##
-\Huge The LUG Timeline
-
-## The Past
-Cool things we've done here
-- Projects
-- Repos
-- Events
-
-## The Present
-Things we're going to do this semester
-- Linux Week
-- LUG X WiCyS
-- CyberForce @ DoE
-- Groups soft intro - Group Rubik
-
-## The Future
-- Cybersec Group
-- CyberForce next year
-- Game Jam (Tentative)
-- Group - GLaDOSnet
-
-# Meet the Cabinet
-
-## 
-\Huge Meet the Cabinet!
+\Huge Meet the Officers
 
 ## President - Michael
 
@@ -119,6 +144,7 @@ Things I like:
 
   - Jeff Rosenstock
   - RDR2
+  - Metal Gear Solid
   - CyberSecurity
 ::::
 :::: column
@@ -179,44 +205,85 @@ Things I like outside of CS:
   \end{column}
 \end{columns}
 
+<!-- Meet the Officers Over --->
 
-## Mentor - Maratos
-
-## Executive Officers - Event Hosters
-
-# LUG Groups
-
-## Groups!
-
-"Groups" are a new addition to UIC Linux User Group offerrings this semester. Inspired by the ACM Speical Interest Groups (or 
-"SIGS")
-
-\vspace{.5cm}
-
-- Groups take a lighter approach starting with regular topic related posts on their home on discord. Feel free to join in!
-
-\vspace{1cm}
-
-We already have had a few great responses in the Rubik group and have learned about new software for timings rubik's cubes! Work may begin this semester on forming new groups including one designed around our workstations, small configurable and temporary local networks centered around our dual boot Linux machine GLADOS (in the LUG office) and aimed towards helping beginners learn to run linux, networking or suggest an idea and perhaps we can help!
-
-## Rubik Group
+## CyberForce Team
 
 ::: columns
-:::: column
-  ![The Group](assets/Group.jpg)
-::::
+:::: {.column width=40%}
+Team `0x1BADB002`
 
-:::: column
-Our First Group. 2x2 timings planned each week!
-  ![Timings planned each week!](assets/ATiming.png)
+- Michael Khan
+- Jacob Cohen
+- Harshit Modi
+- Samuel Skean
+- Max Nguyen
+- Luke Deany
+::::
+:::: {.column width=60%}
+![](assets/cf2024.jpg){width=100%}
 ::::
 :::
 
+## Contributors 
 
-## 
-\Huge Closing Statements
+<!-- TODO: Convert block of text into actual presentation slide --->
 
-## Come See Us!
-- CDRLC 2433 w/ Picture & Directions
-- Discord
-- GitHub
+Thank you so much to our `Contributors`, volunteer students who have made themselves available to help host events, develop workshops, and aid us with all sorts of things when we need extra hands and minds.
+
+Without them, we wouldn't have moved from the SELE to the CDRLC!
+
+If you are interested in being a more active, helping hand, please reach out to us on Discord after the meeting. Be warned you *will* be pinged when we need help, but the benefit is you stay more in the know and you can 
+
+# The LUG Timeline 
+
+##
+\Huge The LUG Timeline
+
+## The Past - Website
+
+We've been building a **community-contributed** knowledge-base for Linux users at UIC who...
+
+- Daily-drive Linux
+- Use Linux for coursework
+- Contribute to LUG
+- are interested in learning about Linux, GNU, FOSS, and things of that nature
+
+Our website has been in active development since 2022. You can contribute RIGHT now! It is open source and you are encouraged to make changes!
+
+Currently can be found at `lugatuic.github.io`
+
+## The Past - Projects
+
+ - [Bad Apple on our Monitor Wall](https://www.youtube.com/watch?v=IMMLflKIPig)
+ - `doorbot` & `doorkeeper-driver`
+ - `eventfetch`
+ 
+In addition to many, many old repos left untouched on our GitHub.
+
+[`github.com/lugatuic`](https://github.com/lugatuic)
+
+## The Past - Server Rack
+
+## The Present - CyberForce
+
+## The Present - Groups
+
+## The Present - Events
+
+## The Future - Self-Hosting
+
+## The Future - Events
+
+# Getting Involved!
+
+##
+\Huge Getting Involved!
+
+## GitHub & Projects
+
+## Starting Groups
+
+## Hosting Events
+
+## Contact & Check In
