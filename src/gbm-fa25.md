@@ -263,11 +263,45 @@ In addition to many, many old repos left untouched on our GitHub.
 
 ## The Past - Server Rack
 
+<!-- TODO: Write about server rack & miku --->
+
 ## The Present - CyberForce
+
+::: column
+:::: column
+- Hosted by Department of Energy
+- Cybersecurity competition
+  - CTF
+  - Attack/Defense in real time
+
+1 Team this year, potentially more LUG teams in the future!
+::::
+:::: column
+![](assets/cflogo.png)
+::::
+:::
 
 ## The Present - Groups
 
-## The Present - Events
+"Groups" are a new addition to UIC Linux User Group offerrings this semester. Inspired by the ACM Speical Interest Groups (or "SIGS" )
+
+\vspace{.5cm}
+
+- Groups take a lighter approach starting with regular topic related posts on their home on discord. Feel free to join in!
+  \vspace{1cm}
+We already have had a few great responses in the Rubik group and have learned about new software for timings rubik's cubes! Work may begin this semester on forming new groups including one designed around our workstations, small configurable and temporary local networks centered around our dual boot Linux machine GLADOS (in the LUG office) and aimed towards helping beginners learn to run linux, networking or suggest an idea and perhaps we can help!
+
+## Rubik Group
+
+::: columns
+:::: column
+  ![The Group](assets/Group.jpg)
+::::
+:::: column
+Our First Group. 2x2 timings planned each week!
+  ![Timings planned each week!](assets/ATiming.png)
+::::
+:::
 
 ## The Future - Self-Hosting
 
