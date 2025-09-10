@@ -238,6 +238,14 @@ Currently can be found at `lugatuic.github.io`
 
 ## The Past - Projects
 
+ - [Bad Apple on our Monitor Wall](https://www.youtube.com/watch?v=IMMLflKIPig)
+ - `doorbot` & `doorkeeper-driver`
+ - `eventfetch`
+ 
+In addition to many, many old repos left untouched on our GitHub.
+
+[`github.com/lugatuic`](https://github.com/lugatuic)
+
 ## The Past - Server Rack
 
 ## The Present - CyberForce
