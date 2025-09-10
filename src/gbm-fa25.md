@@ -263,11 +263,12 @@ In addition to many, many old repos left untouched on our GitHub.
 
 ## The Past - Server Rack
 
-<!-- TODO: Write about server rack & miku --->
+TODO: finish
+
 
 ## The Present - CyberForce
 
-::: column
+::: columns
 :::: column
 - Hosted by Department of Energy
 - Cybersecurity competition
@@ -288,7 +289,9 @@ In addition to many, many old repos left untouched on our GitHub.
 \vspace{.5cm}
 
 - Groups take a lighter approach starting with regular topic related posts on their home on discord. Feel free to join in!
-  \vspace{1cm}
+
+\vspace{1cm}
+
 We already have had a few great responses in the Rubik group and have learned about new software for timings rubik's cubes! Work may begin this semester on forming new groups including one designed around our workstations, small configurable and temporary local networks centered around our dual boot Linux machine GLADOS (in the LUG office) and aimed towards helping beginners learn to run linux, networking or suggest an idea and perhaps we can help!
 
 ## Rubik Group
