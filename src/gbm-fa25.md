@@ -203,6 +203,30 @@ Things I like outside of CS:
   \end{column}
 \end{columns}
 
+
+## LUG Advisor George Maratos
+
+
+\begin{columns}[T,onlytextwidth]
+  \begin{column}{0.56\textwidth}
+    {\Large\bfseries George Maratos}\par\vspace{0.6em}
+    {\small
+    \setlength{\parskip}{0.5em}
+    \begin{itemize}
+      \item Faculty Member since 2023
+      \item Arch Linux User since about 2015 but have tried many others
+      \item LUG Advisor
+    \end{itemize}
+    }
+  \end{column}
+
+  \begin{column}{0.44\textwidth}
+    \centering
+    \includegraphics[width=\linewidth]{assets/homelab.jpg}
+  \end{column}
+\end{columns}
+
+
 <!-- Meet the Officers Over --->
 
 ## CyberForce Team
