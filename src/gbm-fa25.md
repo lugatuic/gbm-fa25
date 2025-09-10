@@ -270,11 +270,16 @@ TODO: finish
 
 ::: columns
 :::: column
-- Hosted by Department of Energy
-- Cybersecurity competition
-  - CTF
-  - Attack/Defense in real time
+Hosted by Department of Energy
 
+\vspace{.5cm}
+Cybersecurity competition
+
+- CTF
+- Pre-competition vulnerability scanning, network hardening, etc.
+- Live attack by DoE staff during competition proper
+
+\vspace{.5cm}
 1 Team this year, potentially more LUG teams in the future!
 ::::
 :::: column
