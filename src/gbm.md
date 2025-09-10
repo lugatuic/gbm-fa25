@@ -154,15 +154,32 @@ Things I like:
 
 ## Vice President - Jacob
 
+::: columns
+:::: column
 \Large \textbf{Jacob Cohen}
 
-Vice President \normalsize
+LUG Vice President, ACM SIG Systems Lead
+\normalsize
 
-- Contact: [jcohen30@uic.edu](mailto:jcohen30@uic.edu)
-- Maintaining LUG since 2024!
-  - Distro: Debian 12 on Home PC
-  - PhD Student under Professor Eriksson
-  - Runs ACM's SIG Systems
+About Me:
+
+- CS Ph.D. Student with Dr. Eriksson -- Specializing in systems and systems performance
+
+- `@minimumentropy` on Discord
+
+- Ask me about my research sometime
+
+Things I like outside of CS:
+
+  - Biking
+  - Food
+  - Travel
+  - Games/Movies/TV
+::::
+:::: column
+![](assets/jacob_img.jpeg)
+::::
+:::
 
 ## Treasurer - Harshit
 
