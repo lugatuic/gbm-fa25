@@ -128,6 +128,33 @@ Things I like:
 
 ## Vice President - Jacob
 
+::: columns
+:::: column
+\Large \textbf{Jacob Cohen}
+
+LUG Vice President, ACM SIG Systems Lead
+\normalsize
+
+About Me:
+
+- CS Ph.D. Student with Dr. Eriksson -- Specializing in systems and systems performance
+
+- `@minimumentropy` on Discord
+
+- Ask me about my research sometime
+
+Things I like outside of CS:
+
+  - Biking
+  - Food
+  - Travel
+  - Games/Movies/TV
+::::
+:::: column
+![](assets/jacob_img.jpeg)
+::::
+:::
+
 ## Treasurer - Harshit
 
 \begin{columns}[T,onlytextwidth]
