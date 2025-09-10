@@ -5,8 +5,6 @@ author: CDRLC 1413
 date: September 10th, 2025
 ---
 
-<!-- TITLE SLIDE GEN HERE --->
-
 ## Welcome to the LUG GBM!
 
 ::: columns
