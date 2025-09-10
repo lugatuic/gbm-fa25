@@ -318,11 +318,26 @@ Pitch in `/etc/group` in our server! As long as people are interested, you're go
 
 ::: columns
 :::: column
-  ![The Group](assets/Group.jpg)
+\vspace{.5cm}
+
+Our First Group! 
+
+\vspace{.5cm}
+Current Promise: 2x2 timings planned each week!
+
+Potential expansion opportunities:
+
+- Automate/Expedite cube timings
+
+- Speedcubing competitions with prizes
+
+- Online cubing
+
+\vspace{.5cm}
+And whatever else people come up with!
 ::::
 :::: column
-Our First Group. 2x2 timings planned each week!
-  ![Timings planned each week!](assets/ATiming.png)
+![The Group](assets/Group.jpg)
 ::::
 :::
 
