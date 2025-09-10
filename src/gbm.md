@@ -44,7 +44,7 @@ date: September 10th, 2025
 
 - Operating System Kernel
 
-- "Linux" = Operating System build on Linux
+- "Linux" = Operating System built on Linux
   - Linux Distros
 
 - Runs on everything, everywhere.
@@ -210,6 +210,8 @@ Team `0x1BADB002`
 
 ## Contributors 
 
+<!-- TODO: Convert block of text into actual presentation slide --->
+
 Thank you so much to our `Contributors`, volunteer students who have made themselves available to help host events, develop workshops, and aid us with all sorts of things when we need extra hands and minds.
 
 Without them, we wouldn't have moved from the SELE to the CDRLC!
@@ -227,7 +229,12 @@ We've been building a **community-contributed** knowledge-base for Linux users a
 
 - Daily-drive Linux
 - Use Linux for coursework
-- 
+- Contribute to LUG
+- are interested in learning about Linux, GNU, FOSS, and things of that nature
+
+Our website has been in active development since 2022. You can contribute RIGHT now! It is open source and you are encouraged to make changes!
+
+Currently can be found at `lugatuic.github.io`
 
 ## The Past - Projects
 
