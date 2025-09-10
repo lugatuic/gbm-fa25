@@ -298,17 +298,23 @@ Cybersecurity competition
 
 ## The Present - Groups
 
-"Groups" are a new addition to UIC Linux User Group offerrings this semester. Inspired by the ACM Speical Interest Groups (or "SIGS" )
+"Groups" term inspired by `/etc/group`
 
-\vspace{.5cm}
+ACM SIGs:
 
-- Groups take a lighter approach starting with regular topic related posts on their home on discord. Feel free to join in!
+- Semester long project
+- SIG Leader leads SIG members, teaches them
+- Formal start, process, and finish
 
-\vspace{1cm}
+LUG Groups:
 
-We already have had a few great responses in the Rubik group and have learned about new software for timings rubik's cubes! Work may begin this semester on forming new groups including one designed around our workstations, small configurable and temporary local networks centered around our dual boot Linux machine GLADOS (in the LUG office) and aimed towards helping beginners learn to run linux, networking or suggest an idea and perhaps we can help!
+- Project only required to be open source and on GitHub
+- Members self-organize; Leaders okay, but likely lots of splintering if vague
+- Extend & contribute to your heart's content!
 
-## Rubik Group
+Pitch in `/etc/group` in our server! As long as people are interested, you're good to go! We have workstations, servers, etc., so please reach out!
+
+## The Present - Group Rubik
 
 ::: columns
 :::: column
