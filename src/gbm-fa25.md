@@ -253,10 +253,19 @@ Currently can be found at `lugatuic.github.io`
 
 ## The Past - Projects
 
+::: columns
+:::: column
+\vspace{1cm}
  - [Bad Apple on our Monitor Wall](https://www.youtube.com/watch?v=IMMLflKIPig)
- - `doorbot` & `doorkeeper-driver`
+ - `doorbot`
+ - `doorkeeper-driver`
  - `eventfetch`
- 
+::::
+:::: column 
+![Our website!](assets/lug-site.png)
+::::
+:::
+
 In addition to many, many old repos left untouched on our GitHub.
 
 [`github.com/lugatuic`](https://github.com/lugatuic)
